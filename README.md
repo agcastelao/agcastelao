@@ -1,7 +1,8 @@
-Hi there, I'm Antonio Castelão
+Hi, I'm Antonio Castelão
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently developing at Tomus
+- 📫 How to reach me felipessmbf@gmail.com
 
 <div>
     <a href="https://github.com/agcastelao"></a>
