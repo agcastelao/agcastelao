@@ -1,7 +1,5 @@
 Hi, I'm Antonio Castelão
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently developing at Tomus
 - 📫 How to reach me antoniocastelao@outlook.com
 
 <div>
