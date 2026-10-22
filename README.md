@@ -31,8 +31,6 @@ Hi, I'm **Antonio Castelão**, a software engineer who designs and builds softwa
 
 </div>
 
-> Private contributions are included in the numbers above.
-
 ## 🧰 Toolbox
 
 <div align="center">
